@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-Website-%233271ff?style=flat&logo=googlechrome&logoColor=white&labelColor=%233271ff" alt="Website">
   </a>
   <a href="https://kszpxxzmc.github.io/WorldRecon-website/WorldRecon.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Paper-%23b91c1c?style=flat&logo=adobeacrobatreader&logoColor=white&labelColor=%23b91c1c" alt="Paper">
+    <img src="https://img.shields.io/badge/-%F0%9F%93%84%20Paper-%23EAB308?style=flat" alt="Paper">
   </a>
 </p>
 
