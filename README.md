@@ -7,7 +7,6 @@
   <a href="https://kszpxxzmc.github.io/WorldRecon-website/" target="_blank">
     <img src="https://img.shields.io/badge/-Project%20Page-%233271ff?style=flat&logo=googlechrome&logoColor=white&labelColor=%233271ff" alt="Project Page">
   </a>
-  <img src="https://img.shields.io/badge/Code-Coming%20Soon-lightgrey?style=flat&logo=github&logoColor=white" alt="Code coming soon">
 </p>
 
 <p align="center">
