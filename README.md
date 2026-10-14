@@ -29,3 +29,15 @@
 
 ## Citation
 
+‘’‘
+@misc{zhang2026worldrecongenerativemultiviewmesh,
+      title={WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World}, 
+      author={Mengchen Zhang and Yang Li and Chunshi Wang and Tong Wu and Chunchao Guo},
+      year={2026},
+      eprint={2610.18846},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2610.18846}, 
+}
+’‘’
+
