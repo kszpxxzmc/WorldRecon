@@ -1,4 +1,4 @@
-# WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World
+<h1 align="center">WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World</h1>
 
 <p align="center">
   <a href="https://arxiv.org/abs/ARXIV_ID" target="_blank">
